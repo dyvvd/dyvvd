@@ -1,0 +1,1 @@
+I am a flight software engineer. I build reliable, real-time software for flight computers, robotics, embedded systems, and computer vision. I work mostly in C, Rust, and Python, and also use C#, TypeScript, JavaScript, and Lua.
